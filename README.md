@@ -14,10 +14,12 @@
 - [ ] TypeScript
 - [ ] Node.js
 - [ ] Vue源码(Vue2 vs Vue3)
-- [ ] 
+- [ ] vite
 - [ ] Webpack(基础知识 -> webpack5)
 - [ ] vant源码
 - [ ] web部署
+
+03.26早起读vue文档第一天
 ---
 
 ### 分享计划
